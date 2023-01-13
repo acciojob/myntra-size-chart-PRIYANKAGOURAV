@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+table{
+	border:2px solid black;
+	border-collapse:collapse;
+	width:250px;
+	height:100px;
+}
+thead{
+	background:#ff1269;
+	color:white;
+}
+.tr1{
+	background:#e37ba1;
+	color:white;
+}
+.tr2{
+	background: #dbc1ca;
+}
+.tr3{
+	background:#eddfe4;
+}
